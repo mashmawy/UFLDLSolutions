@@ -26,7 +26,7 @@ implemented algorithms:
 
 also I wrote usful mathumatical functions that can be used to implement new algorithms.
 
-You need to download the training data sets form :
+You need to download the training data sets from :
 
 http://yann.lecun.com/exdb/mnist/
 
