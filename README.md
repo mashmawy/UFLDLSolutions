@@ -1,6 +1,6 @@
 # 
 
-UFLDL solutions in c# and .Net for the http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial :
+UFLDL solutions in c# and .Net for  http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial :
 
 1- Self Taught Learning.
 
