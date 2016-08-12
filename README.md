@@ -24,7 +24,7 @@ implemented algorithms:
 
 6- Mean Pooling.
 
-also I wrote usful mathumatical functions that can be used to implement new algorithms.
+also I wrote usful mathematical functions that can be used to implement new algorithms.
 
 You need to download the training data sets from :
 
