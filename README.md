@@ -1,6 +1,6 @@
 # 
 
-UFLDL solutions in c# and .Net :
+UFLDL solutions in c# and .Net for  http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial :
 
 1- Self Taught Learning.
 
@@ -24,9 +24,9 @@ implemented algorithms:
 
 6- Mean Pooling.
 
-also I wrote usful mathumatical functions that can be used to implement new algorithms.
+also I wrote useful mathematical functions that can be used to implement new algorithms.
 
-You need to download the training data sets form :
+You need to download the training data sets from :
 
 http://yann.lecun.com/exdb/mnist/
 
