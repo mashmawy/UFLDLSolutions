@@ -114,12 +114,6 @@ namespace UFLDLSolutions
         /// <summary>
         /// Run the sparse autoencoder and return the learned features
         /// </summary>
-        /// <param name="hidden">hidden units length</param>
-        /// <param name="visible">visible units length</param>
-        /// <param name="data">the data</param>
-        /// <param name="lambda">weight decay value</param>
-        /// <param name="sparsity_param">sparsity value to achive</param>
-        /// <param name="beta">sparsity penalty controller</param>
         /// <returns> learned features matrix</returns>
         public double[][] Run()
         {
